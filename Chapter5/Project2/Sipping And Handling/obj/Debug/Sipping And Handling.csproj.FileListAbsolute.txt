@@ -1,0 +1,30 @@
+D:\VS 22\Chapter2\Project3\Sipping And Handling\bin\Debug\Sipping And Handling.exe.config
+D:\VS 22\Chapter2\Project3\Sipping And Handling\bin\Debug\Sipping And Handling.exe
+D:\VS 22\Chapter2\Project3\Sipping And Handling\bin\Debug\Sipping And Handling.pdb
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.AssemblyReference.cache
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping_And_Handling.Properties.Resources.resources
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.GenerateResource.cache
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping And Handling.exe
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping And Handling.pdb
+D:\VS 22\Chapter2\Project3\Sipping And Handling\obj\Debug\Sipping_And_Handling.frmSippingAndHandling.resources
+D:\VS 22\Chapter5\Project2\Sipping And Handling\bin\Debug\Sipping And Handling.exe.config
+D:\VS 22\Chapter5\Project2\Sipping And Handling\bin\Debug\Sipping And Handling.exe
+D:\VS 22\Chapter5\Project2\Sipping And Handling\bin\Debug\Sipping And Handling.pdb
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.AssemblyReference.cache
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping_And_Handling.frmSippingAndHandling.resources
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping_And_Handling.Properties.Resources.resources
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.GenerateResource.cache
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.exe
+D:\VS 22\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\bin\Debug\Sipping And Handling.exe.config
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\bin\Debug\Sipping And Handling.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\bin\Debug\Sipping And Handling.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.AssemblyReference.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping_And_Handling.frmSippingAndHandling.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping_And_Handling.Properties.Resources.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project2\Sipping And Handling\obj\Debug\Sipping And Handling.pdb

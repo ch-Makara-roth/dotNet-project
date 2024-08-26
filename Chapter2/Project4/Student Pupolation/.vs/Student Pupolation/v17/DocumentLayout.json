@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter2\\Project4\\Student Pupolation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6856B5-EF75-4BC0-A262-9C6E2627309C}|Student Pupolation.csproj|d:\\vs 22\\project all chapter ( dotnet )\\chapter2\\project4\\student pupolation\\frmstudentpopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6856B5-EF75-4BC0-A262-9C6E2627309C}|Student Pupolation.csproj|solutionrelative:frmstudentpopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudentPopulation.cs [Design]",
+              "DocumentMoniker": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter2\\Project4\\Student Pupolation\\frmStudentPopulation.cs",
+              "RelativeDocumentMoniker": "frmStudentPopulation.cs",
+              "ToolTip": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter2\\Project4\\Student Pupolation\\frmStudentPopulation.cs [Design]",
+              "RelativeToolTip": "frmStudentPopulation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:49:36.152Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.exe
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.deps.json
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.runtimeconfig.json
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.dll
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.pdb
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.frmCalculateLetterGrade.resources
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.csproj.GenerateResource.cache
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.AssemblyInfoInputs.cache
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.AssemblyInfo.cs
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.dll
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\refint\CalculateLetterGrade.dll
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.pdb
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.genruntimeconfig.cache
+D:\VS 22\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\ref\CalculateLetterGrade.dll
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.deps.json
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.runtimeconfig.json
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.dll
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.frmCalculateLetterGrade.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.AssemblyInfoInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.AssemblyInfo.cs
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.dll
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\refint\CalculateLetterGrade.dll
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.genruntimeconfig.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project1\CalculateLetterGrade\obj\Debug\net6.0-windows\ref\CalculateLetterGrade.dll

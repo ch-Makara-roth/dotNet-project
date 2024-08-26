@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter5\\Project4\\Future Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|d:\\vs 22\\project all chapter ( dotnet )\\chapter5\\project4\\future value\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter5\\Project4\\Future Value\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFutureValue.cs",
+              "DocumentMoniker": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter5\\Project4\\Future Value\\frmFutureValue.cs",
+              "RelativeDocumentMoniker": "frmFutureValue.cs",
+              "ToolTip": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter5\\Project4\\Future Value\\frmFutureValue.cs",
+              "RelativeToolTip": "frmFutureValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T14:57:23.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFutureValue.cs [Design]",
+              "DocumentMoniker": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter5\\Project4\\Future Value\\frmFutureValue.cs",
+              "RelativeDocumentMoniker": "frmFutureValue.cs",
+              "ToolTip": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter5\\Project4\\Future Value\\frmFutureValue.cs [Design]",
+              "RelativeToolTip": "frmFutureValue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T14:57:23.76Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

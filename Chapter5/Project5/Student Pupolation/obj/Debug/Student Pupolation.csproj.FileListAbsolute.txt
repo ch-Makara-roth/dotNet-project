@@ -1,0 +1,30 @@
+D:\VS 22\Chapter2\Project4\Student Pupolation\bin\Debug\Student Pupolation.exe.config
+D:\VS 22\Chapter2\Project4\Student Pupolation\bin\Debug\Student Pupolation.exe
+D:\VS 22\Chapter2\Project4\Student Pupolation\bin\Debug\Student Pupolation.pdb
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student Pupolation.csproj.AssemblyReference.cache
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student_Pupolation.Properties.Resources.resources
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student Pupolation.csproj.GenerateResource.cache
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student Pupolation.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student Pupolation.exe
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student Pupolation.pdb
+D:\VS 22\Chapter2\Project4\Student Pupolation\obj\Debug\Student_Pupolation.frmStudentPopulation.resources
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student Pupolation.csproj.AssemblyReference.cache
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student_Pupolation.frmStudentPopulation.resources
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student_Pupolation.Properties.Resources.resources
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student Pupolation.csproj.GenerateResource.cache
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student Pupolation.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student Pupolation.exe
+D:\VS 22\Chapter3\Project4\Student Pupolation\obj\Debug\Student Pupolation.pdb
+D:\VS 22\Chapter3\Project4\Student Pupolation\bin\Debug\Student Pupolation.exe.config
+D:\VS 22\Chapter3\Project4\Student Pupolation\bin\Debug\Student Pupolation.exe
+D:\VS 22\Chapter3\Project4\Student Pupolation\bin\Debug\Student Pupolation.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\bin\Debug\Student Pupolation.exe.config
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\bin\Debug\Student Pupolation.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\bin\Debug\Student Pupolation.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student Pupolation.csproj.AssemblyReference.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student_Pupolation.frmStudentPopulation.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student_Pupolation.Properties.Resources.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student Pupolation.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student Pupolation.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student Pupolation.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project5\Student Pupolation\obj\Debug\Student Pupolation.pdb

@@ -1,0 +1,20 @@
+D:\VS 22\Chapter2\Project5\Telephone Numbers\bin\Debug\Telephone Numbers.exe.config
+D:\VS 22\Chapter2\Project5\Telephone Numbers\bin\Debug\Telephone Numbers.exe
+D:\VS 22\Chapter2\Project5\Telephone Numbers\bin\Debug\Telephone Numbers.pdb
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.csproj.AssemblyReference.cache
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone_Numbers.Properties.Resources.resources
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.csproj.GenerateResource.cache
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.exe
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.pdb
+D:\VS 22\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone_Numbers.frmTelephoneNumbers.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\bin\Debug\Telephone Numbers.exe.config
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\bin\Debug\Telephone Numbers.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\bin\Debug\Telephone Numbers.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.csproj.AssemblyReference.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone_Numbers.frmTelephoneNumbers.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone_Numbers.Properties.Resources.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter2\Project5\Telephone Numbers\obj\Debug\Telephone Numbers.pdb

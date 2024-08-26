@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|solutionrelative:frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|solutionrelative:frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|d:\\vs 22\\project chapter 2-10 ( dotnet  )\\chapter10\\project1\\payment\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|solutionrelative:frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F1B8CE-8D8D-494F-8CE2-60D17C477AC6}|Payment.csproj|solutionrelative:frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCustomer.cs",
+              "DocumentMoniker": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "frmCustomer.cs",
+              "ToolTip": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmCustomer.cs",
+              "RelativeToolTip": "frmCustomer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:13:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPayment.cs",
+              "DocumentMoniker": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmPayment.cs",
+              "RelativeDocumentMoniker": "frmPayment.cs",
+              "ToolTip": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmPayment.cs",
+              "RelativeToolTip": "frmPayment.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:13:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "frmCustomer.cs",
+              "ToolTip": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:13:53.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPayment.cs [Design]",
+              "DocumentMoniker": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmPayment.cs",
+              "RelativeDocumentMoniker": "frmPayment.cs",
+              "ToolTip": "D:\\VS 22\\Project Chapter 2-10 ( DOTNET  )\\Chapter10\\Project1\\Payment\\frmPayment.cs [Design]",
+              "RelativeToolTip": "frmPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:13:54.205Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

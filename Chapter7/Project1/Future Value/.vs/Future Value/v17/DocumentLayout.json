@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|d:\\vs 22\\project all chapter ( dotnet )\\chapter7\\project1\\future value\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|solutionrelative:frmfuturevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmfuturevalue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEADA5A-5DB2-4DB9-B569-AD5992DD04A5}|Future Value.csproj|solutionrelative:frmfuturevalue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFutureValue.Designer.cs",
+              "DocumentMoniker": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmFutureValue.Designer.cs",
+              "RelativeDocumentMoniker": "frmFutureValue.Designer.cs",
+              "ToolTip": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmFutureValue.Designer.cs",
+              "RelativeToolTip": "frmFutureValue.Designer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwKcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T15:53:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFutureValue.cs",
+              "DocumentMoniker": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmFutureValue.cs",
+              "RelativeDocumentMoniker": "frmFutureValue.cs",
+              "ToolTip": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmFutureValue.cs",
+              "RelativeToolTip": "frmFutureValue.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T21:14:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFutureValue.cs [Design]",
+              "DocumentMoniker": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmFutureValue.cs",
+              "RelativeDocumentMoniker": "frmFutureValue.cs",
+              "ToolTip": "D:\\VS 22\\Project All Chapter ( DOTNET )\\Chapter7\\Project1\\Future Value\\frmFutureValue.cs [Design]",
+              "RelativeToolTip": "frmFutureValue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T19:04:07.286Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

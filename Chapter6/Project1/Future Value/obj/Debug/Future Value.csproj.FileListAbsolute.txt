@@ -1,0 +1,30 @@
+D:\VS 22\Chapter5\Project4\Future Value\bin\Debug\Future Value.exe.config
+D:\VS 22\Chapter5\Project4\Future Value\bin\Debug\Future Value.exe
+D:\VS 22\Chapter5\Project4\Future Value\bin\Debug\Future Value.pdb
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future Value.exe
+D:\VS 22\Chapter5\Project4\Future Value\obj\Debug\Future Value.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\bin\Debug\Future Value.exe.config
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\bin\Debug\Future Value.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\bin\Debug\Future Value.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future Value.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter5\Project4\Future Value\obj\Debug\Future Value.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\bin\Debug\Future Value.exe.config
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\bin\Debug\Future Value.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\bin\Debug\Future Value.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future Value.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter6\Project1\Future Value\obj\Debug\Future Value.pdb

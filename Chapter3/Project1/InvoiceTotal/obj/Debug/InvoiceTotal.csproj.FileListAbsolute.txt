@@ -1,0 +1,30 @@
+D:\VS 22\Chapter2\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\VS 22\Chapter2\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\VS 22\Chapter2\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.AssemblyReference.cache
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\VS 22\Chapter2\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\VS 22\Chapter3\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\VS 22\Chapter3\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\VS 22\Chapter3\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.AssemblyReference.cache
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\VS 22\Chapter3\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.AssemblyReference.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\VS 22\Project All Chapter ( DOTNET )\Chapter3\Project1\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
